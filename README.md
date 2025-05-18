@@ -1,4 +1,6 @@
 # Huffman-Coding
+# NAME:NARESH.R
+# REG NO :212223240104
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
@@ -7,20 +9,19 @@ To implement Huffman coding to compress the data using Python.
 
 ## Algorithm:
 ### Step1:
-<br>
-
+Get the input string.
 
 ### Step2:
-<br>
+Create tree nodes.
 
 ### Step3:
-<br>
+Main function to implement huffman coding.
 
 ### Step4:
-<br>
+calculate frequency of occurence.
 
 ### Step5:
-<br>
+print the characters and its huffmancode.
 
  
 ## Program:
